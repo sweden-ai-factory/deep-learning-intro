@@ -128,7 +128,7 @@ This deed highlights only some of the key features and terms of the actual licen
 
 MIT License
 
-Copyright (c) 2026, Mimer AI Factory project, {{ author }}
+Copyright (c) 2026, Sweden AI Factory project, {{ author }}
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
